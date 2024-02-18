@@ -6,9 +6,9 @@ add_executable(statistics
 	Statistics.cpp
  	IStatistics.h
   	Max.h
-   	Min.h
-    Mean.h   	
-    StdDev.h
+	Min.h
+	Mean.h   	
+	StdDev.h
 )
 
 set_target_properties(statistics PROPERTIES
